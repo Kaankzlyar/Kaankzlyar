@@ -70,7 +70,3 @@ I am a **Computer Engineering Senior** at Pamukkale University (Graduating June 
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Kaankzlyar/count.svg" alt="Visitor Count" />
-</div>
