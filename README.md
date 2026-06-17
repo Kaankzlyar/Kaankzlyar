@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **Computer Engineering Senior** at Pamukkale University (Graduating June 2026) with a focus on building high-performance mobile and web ecosystems. I specialize in bridging the gap between robust backend architectures and high-fidelity user interfaces.
+I am a **Computer Engineering Senior** at Pamukkale University (Graduated June 2026) with a focus on building high-performance mobile and web ecosystems. I specialize in bridging the gap between robust backend architectures and high-fidelity user interfaces.
 
 - 🚀 **Upcoming:** Heading to **FEUP (University of Porto)** for a Research Internship this summer.
 - 🔬 **Senior Thesis:** Developing an automated behavior analysis system for mice using **OpenCV** and **DeepLabCut**.
